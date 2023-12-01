@@ -1,0 +1,8 @@
+ul{ background-color:cyan;display:inline-block; 
+list-style-type:"->";}
+li{background-color:yellow;
+width:200%;
+margin:10px;
+font-size:18px;
+font-family:tahoma;}
+

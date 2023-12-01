@@ -1,0 +1,21 @@
+ul {
+
+  list-style-type: circle;
+
+  border: 2px solid red;
+
+  background-color:cyan;
+
+                width:100px;
+
+}
+
+li {
+
+  margin: 5px;
+
+  background-color:lightpink;
+
+width:70px;
+
+}
